@@ -1,5 +1,21 @@
 {
   "name": "vue3-cron-antv",
+  "title": "vue3-cron-antv",
+  "description": "Cron Generator Implemented by Vue.js and ant-design-vue",
+  "keywords": [
+    "vue",
+    "vue3",
+    "ant",
+    "design",
+    "antd",
+    "vueComponent",
+    "component",
+    "components",
+    "ui",
+    "framework",
+    "frontend",
+    "cron"
+  ],
   "files": [
     "dist",
     "es",
@@ -21,6 +37,11 @@
     "ant-design-vue": "^2.2.8",
     "vue": "^3.2.13"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaochong44/vue3-cron-antv"
+  },
+  "homepage": "https://github.com/xiaochong44/vue3-cron-antv",
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.0",
     "less": "^4.1.1",
