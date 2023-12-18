@@ -1,5 +1,5 @@
 # vue3-cron-antv
-> 基于vue-cron-generator修改而来的Cron表达式生成器
+> 基于vue-cron-generator修改而来的Cron表达式生成
 
 ## 安装
 ``` bash
